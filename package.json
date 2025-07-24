@@ -1,0 +1,16 @@
+{
+  "name": "nicaragua-geo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Librería con los departamentos y municipios de Nicaragua",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["nicaragua", "municipios", "departamentos", "geografía"],
+  "author": "Luis Eliezer Aragón",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12"
+  }
+}
