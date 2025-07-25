@@ -10,4 +10,4 @@ Ideal para validaciones, formularios, selección geográfica, sistemas de direcc
 Instalación local desde npm (cuando esté publicado):
 
 ```bash
-npm install municipios-nicaragua
+npm install nicaragua-geo
