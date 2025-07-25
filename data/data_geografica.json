@@ -1,5 +1,19 @@
 {
-  "Managua": ["Managua", "Ciudad Sandino", "Ticuantepe", "Tipitapa", "El Crucero"],
-  "León": ["León", "La Paz Centro", "Nagarote", "Telica", "Quezalguaque"],
-  "Masaya": ["Masaya", "Nindirí", "Niquinohomo", "Catarina", "San Juan de Oriente"]
+  "Nueva Segovia": ["Jalapa", "Murra", "El Jicaro", "San Fernando", "Mozonte", "Dipilto", "Macuelizo", "Santa María", "Ocotal", "Ciudad Antigua", "Quilalí", "Wiwilí de Nueva Segovia"],
+  "Jinotega": ["Wiwilí", "Cuá-Bocay", "San José de Bocay", "Sta. María de Pantasma", "San Rafael del Norte", "San Sebastián de Yalí", "La Concordia", "Jinotega"],
+  "Madriz": ["Somoto", "Totogalpa", "Telpaneca", "San Juan de Río Coco", "Palacagüina", "Yalagüina", "San Lucas", "Las Sabanas", "San José de Cusmapa"],
+  "Estelí": ["Pueblo Nuevo", "Condega", "Estelí", "San Juan de Limay", "La Trinidad", "San Nicolás"],
+  "Chinandega": ["San Pedro del Norte", "San Francisco del Norte", "Cinco Pinos", "Santo Tomás del Norte", "El Viejo", "Puerto Morazán", "Somotillo", "Villanueva", "Chinandega", "El Realejo", "Corinto", "Chichigalpa", "Posoltega"],
+  "León": ["León", "La Paz Centro", "Nagarote", "Telica", "Quezalguaque", "Achuapa", "El Sauce", "Santa Rosa del Peñón", "El Jicaral", "Larreynaga"],
+  "Matagalpa": ["Rancho Grande", "Río Blanco", "El Tuma - La Dalia", "San Isidro", "Sébaco", "Matagalpa", "San Ramón", "Matiguás", "Muy Muy", "Esquipulas", "San Dionisio", "Terrabona", "Ciudad Darío"],
+  "Boaco": ["San José de los Remates", "Boaco", "Camoapa", "Santa Lucía", "Teustepe", "San Lorenzo"],
+  "Managua": ["San Francisco Libre", "Mateare", "Villa Carlos Fonseca", "Managua", "Ciudad Sandino", "Ticuantepe", "Tipitapa", "El Crucero", "San Rafael del Sur"],
+  "Masaya": ["Masaya", "Nindirí", "Niquinohomo", "Catarina", "San Juan de Oriente", "Tisma", "La Concepción", "Masatepe", "Nandasmo"],
+  "Chontales": ["Comalapa", "San Francisco Cuapa", "Juigalpa", "La Libertad", "Santo Domingo", "Santo Tomás", "San Pedro de Lóvago", "Acoyapa", "Villa Sandino", "El Coral"],
+  "Granada": ["Diriá", "Diriomo", "Granada", "Nandaime"],
+  "Carazo": ["San Marcos", "Jinotepe", "Dolores", "Diriamba", "El Rosario", "La Paz de Carazo", "Santa Teresa", "La Conquista"],
+  "Rivas": ["Tola", "Belén", "Potosí", "Buenos Aires", "Moyogalpa", "Altagracia", "San Jorge", "Rivas", "San Juan del Sur", "Cárdenas"],
+  "Río San Juan": ["Morrito", "El Almendro", "San Miguelito", "San Carlos", "El Castillo", "San Juan del Norte"],
+  "Atlántico Norte": ["Waspán", "Puerto Cabezas", "Rosita", "Bonanza", "Waslala", "Mulukukú", "Siuna", "Prinzapolka"],
+  "Atlántico Sur": ["Paiwas", "La Cruz de Río Grande", "Desembocadura de Río Grande", "Laguna de Perlas", "El Tortuguero", "Rama", "El Ayote", "Muelle de los Bueyes", "Kukra - Hill", "Corn Island", "Bluefields", "Nueva Guinea"]
 }

@@ -1,4 +1,4 @@
-import data from '../data/data_geografica.json' assert { type: "json" };
+import data from '../../data/data_geografica.json' assert { type: "json" };
 
 export function getDepartamentos() {
   return Object.keys(data);
